@@ -11,6 +11,8 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 description: "Esta es una introducción básica a bash"
 output_dir: "docs"
+# run in terminal
+# cp -r _book/  docs 
 ---
 
 # Prerequisites

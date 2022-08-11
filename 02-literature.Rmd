@@ -1,3 +1,10 @@
-# Literature
+# Instrucciones básicas
 
-Here is a review of existing methods.
+## Listar
+
+**L**i**s**tar lo que se tiene en un directorio
+
+```{bash}
+ls 
+```
+

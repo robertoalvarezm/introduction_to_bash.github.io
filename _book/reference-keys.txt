@@ -2,7 +2,8 @@ fig:nice-fig
 tab:nice-tab
 prerequisites
 intro
-literature
+instrucciones-básicas
+listar
 methods
 math-example
 applications
