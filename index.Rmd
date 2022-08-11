@@ -1,9 +1,9 @@
 --- 
 title: "Una introducción a bash"
-author: "Roberto Álvare"
+author: "Roberto Álvarez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+#output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
